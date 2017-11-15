@@ -44,3 +44,9 @@
 - I then created 3 functions to allow the user to input and ID number, and quantity desire while receiving
   a response regarding the item selected, the price and quantity of the item available and how much is owed
 
+  https://user-images.githubusercontent.com/29053308/32818590-001a790e-c979-11e7-9b81-a81d727347d8.png
+
+  https://user-images.githubusercontent.com/29053308/32818591-00337ae4-c979-11e7-8816-7fb255291dba.png
+
+  https://user-images.githubusercontent.com/29053308/32818592-0049d4d8-c979-11e7-96fa-6ebce3fafd0b.png
+
